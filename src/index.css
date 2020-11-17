@@ -1,0 +1,16 @@
+
+code {font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",monospace;}
+#root{margin-top: 15px ;}
+.username{ font-size: 20px;font-weight: bolder; cursor: pointer}
+.viewmodal .modal-content{background-color: #ddd;}
+.view{width: 100%;font-weight: bold;}
+.form-control-plaintext{font-weight: bold;}
+.close:not(:disabled):not(.disabled):hover{outline: none;}
+.thead{background: #f9f9f9;text-align: center;}
+.startrow{margin-bottom: 15px ;}
+.modal-content{background-color: #f9f9f9;}
+table{cursor: pointer;}
+.defalut{cursor:default;}
+@media (max-width: 678px){
+    .view{margin-top: 15px;}
+   }
